@@ -1,5 +1,8 @@
 # README
 
+First developer app for J.Lin
+This is a test app
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
